@@ -1,0 +1,25 @@
+# Dataset
+dataset/
+
+# Trained models
+*.h5
+*.keras
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
